@@ -1,0 +1,2 @@
+12345678901 Burak Yazan 22 5 B H 0 2500 100 120 10 50 6000 c:\\bosna\\abc.jpg
+09876543210 Furkan Albayrak 25 3 E H 2 2000 100 120 10 50 4000 c:\\bosna\\abc.jpg
